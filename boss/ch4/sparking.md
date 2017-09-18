@@ -1,0 +1,2 @@
+# location
+* gene gadget factory

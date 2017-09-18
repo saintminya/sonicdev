@@ -1,0 +1,2 @@
+# location
+* madness mountain throne

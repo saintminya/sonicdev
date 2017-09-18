@@ -1,0 +1,4 @@
+#moveset
+* poison spray
+#location
+*

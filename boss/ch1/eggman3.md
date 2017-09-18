@@ -1,0 +1,2 @@
+# location
+* death egg

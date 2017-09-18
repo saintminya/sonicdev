@@ -1,1 +1,2 @@
-sky sanctuary
+# location
+* sky sanctuary

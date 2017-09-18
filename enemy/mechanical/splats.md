@@ -1,0 +1,5 @@
+# moveset
+* bounce
+* stamp
+# location
+* 

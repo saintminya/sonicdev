@@ -1,0 +1,2 @@
+# location
+* tails' workshop inside

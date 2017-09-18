@@ -1,0 +1,2 @@
+# location
+* tropical sun coast

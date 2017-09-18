@@ -1,0 +1,2 @@
+# location
+* neo death egg

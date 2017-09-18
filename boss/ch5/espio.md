@@ -1,0 +1,2 @@
+# location
+* mushroom hill jungle
