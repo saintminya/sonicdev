@@ -1,0 +1,4 @@
+# aesthetic
+*
+# encounters
+* plant boss

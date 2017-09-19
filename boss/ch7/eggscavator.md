@@ -1,0 +1,2 @@
+# location
+* hidden palace passage
