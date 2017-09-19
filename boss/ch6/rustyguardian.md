@@ -1,4 +1,4 @@
 # location
-* hidden palace palace
+* rusty ruin depths
 # notes
 * drops chaos emerald
