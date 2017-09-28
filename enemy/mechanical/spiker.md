@@ -1,5 +1,5 @@
 # location
 === chapter 1 ===
+* hill top
 * hill top springs
-* blue lagoon beach
-* blue lagoon sea?
+* hill top descent 

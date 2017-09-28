@@ -1,0 +1,4 @@
+# location
+=== chapter 2 ===
+* launch base entrance
+* launch base base

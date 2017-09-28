@@ -1,6 +1,7 @@
-# moveset
-* sandblast
-* tremor
 # location
 * desert dunes
 * sandopolis entrance
+* sandopolis
+# moveset
+* sandblast
+* tremor
