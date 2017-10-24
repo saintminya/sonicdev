@@ -3,3 +3,5 @@
 * emerald hill coast
 * emerald hill forest
 * ocean wind forest
+# moveset
+* coconut toss

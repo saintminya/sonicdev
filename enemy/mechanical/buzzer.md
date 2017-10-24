@@ -3,3 +3,5 @@
 * emerald hill forest
 * dust hill coast
 * dust hill barrens
+# moveset
+* shoot

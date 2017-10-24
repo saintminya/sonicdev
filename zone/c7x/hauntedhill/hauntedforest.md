@@ -1,2 +1,4 @@
+# aesthetic
+*
 # enemies
 * hyuduro

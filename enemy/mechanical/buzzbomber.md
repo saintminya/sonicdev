@@ -6,3 +6,5 @@
 * marble ruins path
 * labyrinth passage
 * scrap brain path
+# moveset
+* shoot
